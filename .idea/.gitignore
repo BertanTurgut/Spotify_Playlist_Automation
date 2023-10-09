@@ -1,4 +1,5 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-secret.py
+
+secret.pyc
